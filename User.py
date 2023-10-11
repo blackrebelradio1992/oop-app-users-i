@@ -8,6 +8,8 @@ class User:
 
     def __str__(self):
         return f"Your Username is {self.userName}, your email is {self.email}, Phone number is {self.phoneNumber} and your city is {self.city}"
+    
+    
 
 
 
